@@ -47,7 +47,7 @@ const App = () => {
       />
       <br />
       <SearchBox
-        className='title-search-boxx'
+        className='title-search-boxxes'
         onChangeHandler={onTitleChange}
         placeholder='Set title'
       />
